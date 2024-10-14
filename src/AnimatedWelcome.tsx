@@ -173,7 +173,7 @@ const AnimatedWelcome = () => {
                 {letter}
               </motion.span>
             ))}
-            {text5.map((letter, index) => (
+            {text5.map((letter) => (
               <motion.span
               style={{
                 marginTop: isMobile ? "-1rem" : "-2rem",
