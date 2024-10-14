@@ -7,6 +7,14 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
+      image: "./project4.png",
+      title: "Paris Olympic 2024 Dashboard!",
+      link: "https://github.com/Harshvardhan4134/Olympics-2024-Dashboard",
+      description:
+        "This project demonstrates how data visualization can provide key insights into various aspects of performance, trends, and data metrics for a hackathon event.",
+    },
+    {
+      id: 2,
       image: "./project1.png",
       title: "Amazon Sales Report!",
       link: "https://github.com/Harshvardhan4134",
@@ -14,7 +22,7 @@ const Projects = () => {
         "Developed a comprehensive Amazon Sales Report using Power BI, showcasing advanced data visualization skills. The report includes key metrics such as total sales, profit, and order count, alongside visual representations like time-series analysis, category-wise sales breakdown, and a performance gauge. This project demonstrates my ability to effectively analyze and present complex sales data for actionable insights.",
     },
     {
-      id: 2,
+      id: 3,
       image: "./project2.png",
       title: "Stock Analysis",
       link: "https://github.com/Harshvardhan4134/Stock-Market-Analysis",
